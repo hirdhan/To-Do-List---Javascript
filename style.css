@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 1000px;
+    background: rgb(255, 99, 1);
+    background: linear-gradient(
+      90deg,
+      rgb(255, 119, 0) 0%,
+      rgb(200, 9, 9) 52%,
+      rgb(78, 4, 52) 99%
+    );
+    font-family: "Quicksand", sans-serif;
+    color: white;
+  }
+
+
+
